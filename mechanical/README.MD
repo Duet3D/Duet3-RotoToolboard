@@ -1,0 +1,1 @@
+Note this mount is not tested to set the coil height optimally for the SZP
